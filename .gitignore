@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# OS별
+.DS_Store
+Thumbs.db
+
+# 환경설정
+.env
+*.env
+
+# 모델/캐시/데이터
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.pb
+*.tflite
+*.npz
+*.npy
+*.log
+*.csv
+*.tsv
+*.sqlite3
+*.db
+runs/
+logs/
+output/
+checkpoints/
+cache/
+
+# 기타
+*.m4a
+*.wav
+*.mp3 
